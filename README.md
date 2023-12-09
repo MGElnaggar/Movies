@@ -22,14 +22,6 @@ Welcome to Movies App , your go-to solution for managing your movie collection e
 
 1. Click the "Fetch" button to retrieve the list of movies you've added before.
 
-## Contributing
-
-Contributions are welcome! If you encounter bugs, have feature requests, or want to contribute code, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Whether you're a movie enthusiast keeping track of your favorite films or just looking for a simple way to manage your watchlist, the Movies App is here to make the process easy and enjoyable. Explore the features, add your movies, and let the cinematic journey begin!
